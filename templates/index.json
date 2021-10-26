@@ -76,10 +76,116 @@
         "md_col": "col-md-4",
         "sm_col": "col-sm-6"
       }
+    },
+    "1635286839a3520171": {
+      "type": "hero-two",
+      "settings": {
+        "hero_height": "50vh",
+        "background1": "#000",
+        "opacity1": 50,
+        "button_text1": "Button Text",
+        "button_link1": "",
+        "background2": "#000",
+        "opacity2": 50,
+        "button_text2": "Button Text",
+        "button_link2": ""
+      }
+    },
+    "163528687330d8323c": {
+      "type": "collection-product-single",
+      "settings": {
+        "collection": "",
+        "image_fit": "contain",
+        "container_shape": "rectangle",
+        "total_products": 16,
+        "background": "#edeff5",
+        "opacity": 100,
+        "show_title": true,
+        "show_price": true,
+        "xxl_col": "col-xxl-4",
+        "xl_col": "col-xl-4",
+        "lg_col": "col-lg-4",
+        "md_col": "col-md-4",
+        "sm_col": "col-sm-6"
+      }
+    },
+    "163528696128091f64": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "collection": "",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false
+      }
+    },
+    "1635287048468ba915": {
+      "type": "collection-product-single",
+      "settings": {
+        "collection": "",
+        "image_fit": "contain",
+        "container_shape": "rectangle",
+        "total_products": 16,
+        "background": "#edeff5",
+        "opacity": 100,
+        "show_title": true,
+        "show_price": true,
+        "xxl_col": "col-xxl-4",
+        "xl_col": "col-xl-4",
+        "lg_col": "col-lg-4",
+        "md_col": "col-md-4",
+        "sm_col": "col-sm-6"
+      }
+    },
+    "1635287078a6c87478": {
+      "type": "hero-one",
+      "blocks": {
+        "1635287078a6c87478-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Title",
+            "size": "md"
+          }
+        },
+        "1635287078a6c87478-1": {
+          "type": "paragraph",
+          "settings": {
+            "paragraph": "Schlitz meggings aesthetic glossier flannel yr hella food truck venmo mixtape ennui flexitarian pug knausgaard gluten-free. Chillwave keytar butcher stumptown tofu craft beer taxidermy raclette bespoke pinterest vexillologist."
+          }
+        },
+        "1635287078a6c87478-2": {
+          "type": "button",
+          "settings": {
+            "button_text": "Button Text",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1635287078a6c87478-0",
+        "1635287078a6c87478-1",
+        "1635287078a6c87478-2"
+      ],
+      "settings": {
+        "hero_height": "50vh",
+        "background": "#000",
+        "opacity": 50,
+        "info_alignment": "center"
+      }
     }
   },
   "order": [
     "1635286108a555a2de",
-    "1635286563862a1441"
+    "1635286563862a1441",
+    "1635286839a3520171",
+    "163528687330d8323c",
+    "163528696128091f64",
+    "1635287048468ba915",
+    "1635287078a6c87478"
   ]
 }
