@@ -13,18 +13,18 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "blocks": {
-          "announcement-bar-0": {
+          "a64d9c32-0f63-4d4f-b0a7-088e857f76ce": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to our store",
-              "background_color": "#605e7d",
+              "text": "Black Friday Specials!",
+              "background_color": "#9e9cb7",
               "announcement_text_color": "#fff",
-              "link": "shopify:\/\/pages\/contact"
+              "link": ""
             }
           }
         },
         "block_order": [
-          "announcement-bar-0"
+          "a64d9c32-0f63-4d4f-b0a7-088e857f76ce"
         ],
         "settings": {
         }
@@ -32,8 +32,10 @@
       "header": {
         "type": "header",
         "settings": {
+          "header_type": "header1",
           "logo_width": 100,
           "menu": "main-menu",
+          "menu_two": "main-menu",
           "enable_sticky_header": true
         }
       },
@@ -52,13 +54,11 @@
           "footer-0"
         ],
         "settings": {
-          "color_scheme": "background-1",
+          "footer_p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
           "newsletter_enable": true,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": false,
-          "enable_country_selector": true,
-          "enable_language_selector": true,
-          "payment_enable": true
+          "footer_bottom_menu": ""
         }
       }
     },
