@@ -12,6 +12,20 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
+        "blocks": {
+          "a64d9c32-0f63-4d4f-b0a7-088e857f76ce": {
+            "type": "announcement",
+            "settings": {
+              "text": "Black Friday Specials!",
+              "background_color": "#9e9cb7",
+              "announcement_text_color": "#fff",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "a64d9c32-0f63-4d4f-b0a7-088e857f76ce"
+        ],
         "settings": {
         }
       },
